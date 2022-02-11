@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T12:53:04.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="eV_CIx_O0cKo_3Cbeoqp" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T13:18:55.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="-p4Aaq4sPtXZ7yNqDvzt" version="16.5.5" type="github" pages="2">
   <diagram id="CIDVrlHGeB2SoitGraBb" name="Page-1">
-    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,16 +11,13 @@
           <mxGeometry x="730" y="400" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MRAI9ltyMjos9GNkeytj-4" value="精准定位" style="shape=folder;fontStyle=1;tabWidth=30;tabHeight=10;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="250" width="90" height="60" as="geometry" />
+          <mxGeometry x="444" y="230" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRAI9ltyMjos9GNkeytj-8" value="人机协作" style="shape=folder;fontStyle=1;tabWidth=30;tabHeight=10;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRAI9ltyMjos9GNkeytj-12" value="仿真操作" style="ellipse;" vertex="1" parent="1">
           <mxGeometry x="380" y="340" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MRAI9ltyMjos9GNkeytj-14" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;无人加油机器人&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="284" y="170" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MRAI9ltyMjos9GNkeytj-16" value="实时反馈" style="ellipse;" vertex="1" parent="1">
           <mxGeometry x="380" y="400" width="60" height="30" as="geometry" />
@@ -32,12 +29,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MRAI9ltyMjos9GNkeytj-20" value="自动识别" style="shape=folder;fontStyle=1;tabWidth=30;tabHeight=10;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="250" width="90" height="60" as="geometry" />
+          <mxGeometry x="294" y="230" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRAI9ltyMjos9GNkeytj-22" value="动态监控" style="shape=folder;fontStyle=1;tabWidth=30;tabHeight=10;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="610" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAI9ltyMjos9GNkeytj-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MRAI9ltyMjos9GNkeytj-2" target="MRAI9ltyMjos9GNkeytj-12">
+        <mxCell id="MRAI9ltyMjos9GNkeytj-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="MRAI9ltyMjos9GNkeytj-2" target="MRAI9ltyMjos9GNkeytj-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="400" as="sourcePoint" />
             <mxPoint x="170" y="350" as="targetPoint" />
@@ -48,13 +45,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRAI9ltyMjos9GNkeytj-31" value="p1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MRAI9ltyMjos9GNkeytj-2" target="MRAI9ltyMjos9GNkeytj-20">
+        <mxCell id="MRAI9ltyMjos9GNkeytj-31" value="p1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="MRAI9ltyMjos9GNkeytj-2" target="MRAI9ltyMjos9GNkeytj-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="400" as="sourcePoint" />
             <mxPoint x="258.78679656440363" y="305.6066017177982" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRAI9ltyMjos9GNkeytj-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="1" target="MRAI9ltyMjos9GNkeytj-8">
+        <mxCell id="MRAI9ltyMjos9GNkeytj-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="MRAI9ltyMjos9GNkeytj-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="410" as="sourcePoint" />
             <mxPoint x="440" y="344.8" as="targetPoint" />
@@ -65,7 +62,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRAI9ltyMjos9GNkeytj-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="MRAI9ltyMjos9GNkeytj-16">
+        <mxCell id="MRAI9ltyMjos9GNkeytj-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" target="MRAI9ltyMjos9GNkeytj-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="121" y="411.39" as="sourcePoint" />
             <mxPoint x="259.78679656440363" y="306.99660171779817" as="targetPoint" />
@@ -76,7 +73,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRAI9ltyMjos9GNkeytj-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="MRAI9ltyMjos9GNkeytj-18">
+        <mxCell id="MRAI9ltyMjos9GNkeytj-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" target="MRAI9ltyMjos9GNkeytj-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="410" as="sourcePoint" />
             <mxPoint x="249" y="463.61" as="targetPoint" />
@@ -87,7 +84,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRAI9ltyMjos9GNkeytj-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=35;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="MRAI9ltyMjos9GNkeytj-22">
+        <mxCell id="MRAI9ltyMjos9GNkeytj-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=35;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="MRAI9ltyMjos9GNkeytj-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="410" as="sourcePoint" />
             <mxPoint x="280" y="585" as="targetPoint" />
@@ -133,6 +130,29 @@
             <mxPoint x="470" y="640" as="sourcePoint" />
             <mxPoint x="750" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MIk6NCJpk_AkpmzkX0km" name="Page-2">
+    <mxGraphModel dx="782" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="a0LKG27QdqO320e4si-_-0" />
+        <mxCell id="a0LKG27QdqO320e4si-_-1" parent="a0LKG27QdqO320e4si-_-0" />
+        <mxCell id="Q8KDRcUNt6GW6yBp1eHn-0" value="图像采集" style="ellipse;" vertex="1" parent="a0LKG27QdqO320e4si-_-1">
+          <mxGeometry x="250" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBRBnzzG4QVvFNYVYO48-0" value="数据处理&lt;br&gt;（图像+距离）" style="shape=folder;fontStyle=1;tabWidth=26;tabHeight=10;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="a0LKG27QdqO320e4si-_-1">
+          <mxGeometry x="376" y="120" width="76" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lBRBnzzG4QVvFNYVYO48-1" value="云端同步" style="ellipse;" vertex="1" parent="a0LKG27QdqO320e4si-_-1">
+          <mxGeometry x="250" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBRBnzzG4QVvFNYVYO48-2" value="数据上传" style="ellipse;" vertex="1" parent="a0LKG27QdqO320e4si-_-1">
+          <mxGeometry x="376" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBRBnzzG4QVvFNYVYO48-3" value="数据上传" style="ellipse;" vertex="1" parent="a0LKG27QdqO320e4si-_-1">
+          <mxGeometry x="490" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
