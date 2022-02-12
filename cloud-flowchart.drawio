@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T07:53:14.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="Vg3NO1J615bNHHzOwr7-" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-12T07:55:43.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="My-VhXtoQfKtUP2o9wgC" version="16.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ih7cLVgBEfrDWIJRamdD-0" target="ih7cLVgBEfrDWIJRamdD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ih7cLVgBEfrDWIJRamdD-0" target="ih7cLVgBEfrDWIJRamdD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-0" value="UML活动图模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="215" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ih7cLVgBEfrDWIJRamdD-2" target="ih7cLVgBEfrDWIJRamdD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-2" value="形式化活动图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="180" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ih7cLVgBEfrDWIJRamdD-5" target="ih7cLVgBEfrDWIJRamdD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-5" value="生成测试场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="180" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ih7cLVgBEfrDWIJRamdD-9" target="ih7cLVgBEfrDWIJRamdD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-9" value="定义测试剖面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ih7cLVgBEfrDWIJRamdD-10" target="ih7cLVgBEfrDWIJRamdD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-10" value="生成测试数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-12" value="生成测试用例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="215" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ih7cLVgBEfrDWIJRamdD-15" value="覆盖&lt;br&gt;准则" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
